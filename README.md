@@ -54,7 +54,7 @@ User: admin
 
 ## Authors
 
-Windtalker IT Team - (https://github.com/dieforuser)
+Windtalker IT Team - (https://github.com/dvusers)
 
 ## License
 
