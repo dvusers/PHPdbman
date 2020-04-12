@@ -2,10 +2,6 @@
 
 A user Friendly PHP database manager.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 # Installation
 
 ### Make Database
@@ -20,6 +16,11 @@ Give examples
 ```
 Give the example
 ```
+
+## Demo
+
+* [Demo](http://www.dropwizard.io/1.0.2/docs/)
+* [User: admin Passwd:admin]
 
 ## Built With
 
