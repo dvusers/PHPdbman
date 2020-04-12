@@ -4,8 +4,8 @@ A user Friendly PHP database manager.
 
 ## Built With
 
-[PHP 7.4.3](https://www.php.net/releases/7_4_3.php)
-[MySql](https://mysql.com/) 
+*[PHP 7.4.3](https://www.php.net/releases/7_4_3.php)
+*[MySql](https://mysql.com/) 
 
 # Installation
 
