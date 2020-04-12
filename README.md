@@ -12,7 +12,7 @@ A user Friendly PHP database manager.
 ### Create Mysql Database
 
 ```
-Give examples
+CREATE DATABASE multi_user;
 ```
 
 
