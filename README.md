@@ -4,8 +4,8 @@ A user Friendly PHP database manager.
 
 ## Built With
 
-* [PHP 7.4.3](https://www.php.net/releases/7_4_3.php)
-* [MySql](https://mysql.com/) 
+[PHP 7.4.3](https://www.php.net/releases/7_4_3.php)
+[MySql](https://mysql.com/) 
 
 # Installation
 
@@ -47,14 +47,14 @@ CREATE TABLE `admin_login` (
 
 ## Demo
 
-* [Demo](http://www.dropwizard.io/1.0.2/docs/)
-* User: admin 
+[Demo](http://www.dropwizard.io/1.0.2/docs/)
+User: admin 
   Passwd:admin
 
 
 ## Authors
 
-* **Windtalker IT Team** - (https://github.com/dieforuser)
+Windtalker IT Team - (https://github.com/dieforuser)
 
 ## License
 
