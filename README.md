@@ -27,7 +27,7 @@ CREATE TABLE `admin_login` (
   `level` varchar(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
-  INSERT INTO `admin_login` (`id`, `nama`, `username`, `password`, `level`) VALUES
+  INSERT INTO `admin_login` (`id`, `name`, `username`, `password`, `level`) VALUES
   (1, 'admin', 'admin', 'admin', 'admin');
 
   ALTER TABLE `admin_login`
