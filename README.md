@@ -20,7 +20,8 @@ Give the example
 ## Demo
 
 * [Demo](http://www.dropwizard.io/1.0.2/docs/)
-* [User: admin Passwd:admin]
+* User: admin 
+  Passwd:admin
 
 ## Built With
 
