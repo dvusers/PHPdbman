@@ -2,9 +2,14 @@
 
 A user Friendly PHP database manager.
 
+## Built With
+
+* [PHP 7.4.3](https://www.php.net/releases/7_4_3.php)
+* [MySql](https://mysql.com/) 
+
 # Installation
 
-### Make Database
+### Create Mysql Database
 
 ```
 Give examples
@@ -23,15 +28,10 @@ Give the example
 * User: admin 
   Passwd:admin
 
-## Built With
-
-* [PHP](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [MySql](https://maven.apache.org/) - Dependency Management
-
 
 ## Authors
 
-* **Galih Prakoso** - (https://github.com/dieforuser)
+* **Windtalker IT Team** - (https://github.com/dieforuser)
 
 ## License
 
