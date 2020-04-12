@@ -47,9 +47,9 @@ CREATE TABLE `admin_login` (
 
 ## Demo
 
-[Demo](http://www.dropwizard.io/1.0.2/docs/)
+[Demo](http://www.bitwitch.totalh.net)
 User: admin 
-  Passwd:admin
+  Passwd: admin
 
 
 ## Authors
