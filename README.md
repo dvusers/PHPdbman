@@ -27,30 +27,14 @@ CREATE TABLE `admin_login` (
   `level` varchar(20) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
---
--- Dumping data untuk tabel `admin_login`
---
+  INSERT INTO `admin_login` (`id`, `nama`, `username`, `password`, `level`) VALUES
+  (1, 'admin', 'admin', 'admin', 'admin');
 
-INSERT INTO `admin_login` (`id`, `nama`, `username`, `password`, `level`) VALUES
-(1, 'admin', 'admin', 'admin', 'admin');
-
---
--- Indexes for dumped tables
---
-
---
--- Indeks untuk tabel `admin_login`
---
   ALTER TABLE `admin_login`
   ADD PRIMARY KEY (`id`);
 
---
--- AUTO_INCREMENT untuk tabel yang dibuang
---
 
---
--- AUTO_INCREMENT untuk tabel `admin_login`
---
+
   ALTER TABLE `admin_login`
   MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
   COMMIT;
