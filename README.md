@@ -47,7 +47,7 @@ CREATE TABLE `admin_login` (
 
 ## Demo
 
-[Demo](http://www.bitwitch.totalh.net)
+[Demo](http://www.dvuser.totalh.net)
 User: admin 
   Passwd: admin
 
