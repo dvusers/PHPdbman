@@ -34,9 +34,3 @@ Give the example
 ## License
 
 This project is licensed under the GNU 3 License - see the [LICENSE.md](https://github.com/dieforuser/PHPdbman/blob/master/LICENSE) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
